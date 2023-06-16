@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- *  main is main
+ * main - does not recieve an input
+ *
+ * Return: 0 if successful
  */
 int main(void)
 {
